@@ -1,5 +1,5 @@
 ![stackfrosst banner](https://raw.githubusercontent.com/stackfrosst/stackfrosst/main/banner.svg)
-
+ 
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=STATION+ONLINE+%2F%2F+stackfrosst;ATMOSPHERIC+PRESSURE%3A+STABLE;CURRENT+CONDITIONS%3A+SHIPPING+FEATURES;TEMPERATURE%3A+-40°C+%2F%2F+FROST+NEVER+STOPS;CLEARANCE%3A+REMOTE+EU%2FUSA)
 
 ---
