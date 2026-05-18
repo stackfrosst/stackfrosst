@@ -81,29 +81,12 @@ EXPEDITION LOG // PROJECTS
 ─────────────────────────────────────────────────────────────
 ```
 
----
-
-## 📊 Seismic Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stackfrosst&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackfrosst&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=stackfrosst&theme=nord&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=ffffff)
-
-</div>
-
----
-
 ```
 TRANSMISSION CHANNEL // CONTACT
 ─────────────────────────────────────────────────────────────
 
-  ❄️  LinkedIn  →  YOUR_LINKEDIN_URL
-  📡  Email     →  YOUR_EMAIL
-  🌐  Portfolio →  YOUR_PORTFOLIO_URL
+  ❄️  LinkedIn  →  https://www.linkedin.com/in/bohdan-hai/
+  📡  Email     →  haibohdanwork@gmail.com
 
   frequency : always open · range : EU/USA timezones
 
@@ -111,8 +94,6 @@ TRANSMISSION CHANNEL // CONTACT
 ```
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=stackfrosst&color=4FC3F7&style=flat-square&label=expeditions)
 
 ```
 // frost never stops the build
